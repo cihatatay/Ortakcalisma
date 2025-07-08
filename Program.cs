@@ -19,5 +19,8 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+app.MapGet("/", () => "Naptın aga");
 
 app.Run();
+
+// Hi Brom
