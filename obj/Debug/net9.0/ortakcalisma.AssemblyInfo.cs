@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ortakcalisma")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97179f6fc1f7f2dba7daa716b0391a5ab2032637")]
 [assembly: System.Reflection.AssemblyProductAttribute("ortakcalisma")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ortakcalisma")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

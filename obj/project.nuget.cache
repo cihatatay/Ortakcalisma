@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "1DnBtdLtiBE=",
+  "dgSpecHash": "ePG7oCP8OZg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\knabe\\Documents\\works\\ortakcalisma\\ortakcalisma.csproj",
+  "projectFilePath": "C:\\Users\\Efe\\RiderProjects\\Ortakcalisma\\ortakcalisma.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\knabe\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
-    "C:\\Users\\knabe\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+    "C:\\Users\\Efe\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "C:\\Users\\Efe\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
   ],
   "logs": []
 }

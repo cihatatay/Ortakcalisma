@@ -21,3 +21,8 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+/* Cihat merhaba nasılsın keyifler yerindemi 
+ * yerindeyse süper
+ * üff mikemmel
+*/

@@ -75,19 +75,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\knabe\\.nuget\\packages\\": {}
+    "C:\\Users\\Efe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\knabe\\Documents\\works\\ortakcalisma\\ortakcalisma.csproj",
+      "projectUniqueName": "C:\\Users\\Efe\\RiderProjects\\Ortakcalisma\\ortakcalisma.csproj",
       "projectName": "ortakcalisma",
-      "projectPath": "C:\\Users\\knabe\\Documents\\works\\ortakcalisma\\ortakcalisma.csproj",
-      "packagesPath": "C:\\Users\\knabe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\knabe\\Documents\\works\\ortakcalisma\\obj\\",
+      "projectPath": "C:\\Users\\Efe\\RiderProjects\\Ortakcalisma\\ortakcalisma.csproj",
+      "packagesPath": "C:\\Users\\Efe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Efe\\RiderProjects\\Ortakcalisma\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\knabe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Efe\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -141,7 +141,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
